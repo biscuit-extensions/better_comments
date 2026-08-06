@@ -1,0 +1,7 @@
+[extension]
+id = "better_comments"
+name = "Better Comments"
+version = "0.1.0"
+description = "Human-friendly colorful comment highlighting for alerts, queries, and todos"
+author = "biscuit-extensions"
+icon = "icon.png"
